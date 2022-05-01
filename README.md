@@ -9,8 +9,8 @@ place for me to start simply because I can see what I'm building. <br>
 - 🔭 I’m currently working on ...
 ## 🛠️ Languages & Tools 
 Although I could add more logos of languages/tools to make this section <br>
-look appealing to you, I would be lying to myself. <br><br>
-As a result, I will only display things that I'm proficient in.
+look appealing to you, I would be lying to myself cause I don't know them. <br><br>
+Below are logos of some of the languages/frameworks that I am proficient in.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="Logo of HTML5" width="150">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo of CSS3" width="150">
