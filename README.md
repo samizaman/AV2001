@@ -1,10 +1,10 @@
 # Hey there, this is Anirudh Vadlamani! 👋
 
 ## 👨‍💻About Me
-I'm passionate about Full-Stack development, Machine Learning, and the Blockchain technology. <br>
+I'm passionate about Full-Stack development, Machine Learning, and the Blockchain technology. <br><br>
 I know for a fact that it is not posssible to excel in all these areas at once, <br> 
-so I am currently focusing on just the Front-End because I'm a visual person <br>
-and I like to see things that I'm building as I progress.
+so I am currently focusing on just the Front-End because that's the best <br>
+place for me to start simply because I can see what I'm building. <br>
 
 - 🔭 I’m currently working on ...
 ## 🛠️ Languages & Tools 
