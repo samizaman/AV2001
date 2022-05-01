@@ -1,7 +1,10 @@
 # Hey there, this is Anirudh Vadlamani! 👋
 
+## 👨‍💻About Me
+I'm an aspiring Full-Stack Developer/Engineer currently focusing on learning the core Front-End technologies. 
+
 - 🔭 I’m currently working on ...
-## 🛠️ Languages & Tools: 
+## 🛠️ Languages & Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="Logo of HTML5" width="150">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo of CSS3" width="150">
