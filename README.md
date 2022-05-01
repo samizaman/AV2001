@@ -1,7 +1,10 @@
 # Hey there, this is Anirudh Vadlamani! 👋
 
 ## 👨‍💻About Me
-I'm an aspiring Full-Stack Developer/Engineer currently focusing on learning the core Front-End technologies. 
+I'm passionate about Full-Stack development, Machine Learning, and the Blockchain technology. <br>
+I know for a fact that it is not posssible to excel in all these areas at once, <br> 
+so I am currently focusing on just the Front-End because I'm a visual person <br>
+and I like to see things that I'm building as I progress.
 
 - 🔭 I’m currently working on ...
 ## 🛠️ Languages & Tools 
