@@ -1,5 +1,8 @@
-# Hey, Anirudh Vadlamani here! 👋
-
+<div align="center">
+  <h1>Hey, Anirudh Vadlamani here! 👋</h1>
+  
+</div>
+  
 ## 👨‍💻About Me
 I'm passionate about Full-Stack development, Machine Learning, and the infamous Blockchain technology. <br><br>
 I know for a fact that it is not posssible to excel in all these areas at once, <br> 
@@ -27,6 +30,7 @@ but in case if you are, here you go! <br><br>
 Below is a list of some of the online content publishing platforms <br>
 that I use to share my work and reflect on my journey. <br><br>
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anirudhvadlamani.hashnode.dev/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 
 
 ## 📫 How To Reach Me?
