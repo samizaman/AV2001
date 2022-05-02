@@ -1,7 +1,19 @@
-<div align="center">
-  <h1>Hey, Anirudh Vadlamani here! 👋</h1>
+
+  <h1 align="center">Hey, Anirudh Vadlamani here! 👋</h1>
+  <img src="Profile Banner.png"> <br><br>
   
-</div>
+  <div align="center">
+    <p>
+      These are a some of the online content publishing platforms <br>
+      that I use to share my journey, reflect, and write about stuff. <br>
+    </p>  
+    <a href="https://anirudhvadlamani.hashnode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+    </a>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>  
+  </div>  
   
 ## 👨‍💻About Me
 I'm passionate about Full-Stack development, Machine Learning, and the infamous Blockchain technology. <br><br>
@@ -25,12 +37,6 @@ Below are some of the languages, and libraries/frameworks that I am proficient i
 I'm honestly not sure if you'd be interested in knowing my GitHub stats, <br>
 but in case if you are, here you go! <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AV2001&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## Platforms That I Write On
-Below is a list of some of the online content publishing platforms <br>
-that I use to share my work and reflect on my journey. <br><br>
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anirudhvadlamani.hashnode.dev/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 
 
 ## 📫 How To Reach Me?
