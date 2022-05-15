@@ -16,10 +16,9 @@
   </div>  
   
 ## 👨‍💻About Me
-- Pursuing BSc in Infromation Technology (1 year left!).
-- Passionate about the Front-end, Back-end, and AI/ML.
-- Currenly learning about Full-stack development/engineering.
-
+- IT student 🧑‍🎓 at MDX Dubai (1 year left! 🎓).
+- Passionate about the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
+- Currenly learning about Full-stack 📚 development/engineering.
 
 <hr>
 
