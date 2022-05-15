@@ -16,9 +16,9 @@
   </div>  
   
 ## 👨‍💻About Me
-I'm currently learning about Full-Stack Engineering. Why? <br>
-Because I want to be proficient in both the Front-end and the Back-end <br>
-so that I can get a better view of what's happening at both ends.
+- Pursuing BSc in Infromation Technology (1 year left!).
+- Passionate about the Front-end, Back-end, and AI/ML.
+- Currenly learning about Full-stack development/engineering.
 
 
 <hr>
