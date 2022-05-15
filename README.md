@@ -18,8 +18,7 @@
 ## 👨‍💻About Me
 - IT student 🧑‍🎓 at MDX Dubai (1 year left! 🎓).
 - Passionate about the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
-- Currenly learning about Full-stack 📚 development/engineering.
-
+- Currenly learning about Full-stack development/engineering 📚.
 <hr>
 
 ## 🛠️ Programming Languages
@@ -31,6 +30,7 @@ Below are some of the languages, and libraries/frameworks that I am proficient i
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo of CSS3" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Logo of JavaScript" width="50">
 </div>
+<hr>
 
 ## 📊 GitHub Statistics
 I'm honestly not sure if you'd be interested in knowing my GitHub stats, <br>
