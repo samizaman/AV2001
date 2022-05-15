@@ -16,10 +16,10 @@
   </div>  
   
 ## 👨‍💻About Me
-I'm passionate about Full-Stack development, Machine Learning, and the infamous Blockchain technology. <br><br>
-I know for a fact that it is not posssible to excel in all these areas at once, <br> 
-so I am currently focusing on Front-End because that's the best <br>
-place for me to start because I can visually see what I'm building. <br>
+I'm currently learning about Full-Stack Engineering. Why?
+Because I want to be proficient in both the Front-end and the Back-end <br>
+so that I can get a better view of what's happening at both ends.
+
 
 <hr>
 
