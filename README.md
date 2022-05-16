@@ -4,8 +4,8 @@
   
   <div align="center">
     <p>
-      These are a some of the online content publishing platforms <br>
-      that I use to share my journey, reflect, and write about stuff. <br>
+      These are some of the online content publishing platforms <br>
+      where I write about whatever my mind is interested in. <br>
     </p>  
     <a href="https://anirudhvadlamani.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
