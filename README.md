@@ -18,7 +18,7 @@
 ## 👨‍💻About Me
 - IT student 🧑‍🎓 at MDX Dubai (1 year left! 🎓).
 - Passionate about the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
-- Currenly learning about Full-stack development/engineering 📚.
+- Currenly learning about Front-end development/engineering 📚.
 <hr>
 
 ## 🛠️ Programming Languages
@@ -26,10 +26,10 @@ Although I could add more logos of languages to make this section <br>
 look appealing to you, I would be lying to myself cause I don't know them. <br><br>
 Below are some of the languages, and libraries/frameworks that I am proficient in.
 <div>
-    <span>
+    <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="Logo of HTML5" width="50">
       <p>HTML</p>
-    </span>
+    </div>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo of CSS3" width="50">
       <p>CSS</p>
