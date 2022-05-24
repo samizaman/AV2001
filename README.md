@@ -1,6 +1,6 @@
 
   <h1 align="center">Hey, Anirudh Vadlamani here! 👋</h1>
-  <img src="Profile Banner.png"> <br><br>
+  <img src="LinkedIn Profile Banner.png"> <br><br>
   
   <div align="center">
     <p>
