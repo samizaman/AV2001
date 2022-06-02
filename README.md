@@ -39,4 +39,5 @@ but in case if you are, here you go! <br><br>
 <hr>
 
 ## 📫 How To Reach Me?
+Feel free to DM me on LinkedIn. I usually reply within 24 hours.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-vadlamani/)
