@@ -17,7 +17,7 @@
   
 ## 👨‍💻About Me
 - IT student 🧑‍🎓 at MDX Dubai (1 year left! 🎓).
-- Passionate about the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
+- Love working with the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
 - Currenly learning about Front-end development/engineering 📚.
 <hr>
 
