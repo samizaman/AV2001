@@ -36,7 +36,7 @@ Below are some of the languages, and libraries/frameworks that I am proficient i
 I'm honestly not sure if you'd be interested in knowing my GitHub stats, <br>
 but in case if you are, here you go! <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AV2001&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<hr>
 
 ## 📫 How To Reach Me?
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-vadlamani/)
