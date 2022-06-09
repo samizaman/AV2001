@@ -16,7 +16,7 @@
   </div>  
   
 ## 👨‍💻About Me
-- Pursuing BSc IT 🧑‍🎓 at MDX Dubai (1 year left! 🎓).
+- Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
 - Love to work with the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
 - Currenly, I'm learning about the Front-end technologies 📚.
 <hr>
