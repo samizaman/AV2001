@@ -1,19 +1,5 @@
-
-  <h1 align="center">Hey, Anirudh Vadlamani here! 👋</h1>
-  <img src="Banner.png"> <br><br>
-  
-  <div align="center">
-    <p>
-      These are some of the platforms I use to write <br> 
-      about stuff my mind is interested in. <br>
-    </p>  
-    <a href="https://anirudhvadlamani.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-    </a>
-    <a href="https://medium.com/@anirudhvadlamani2001" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>  
-  </div>  
+<h1 align="center">Hey, Anirudh Vadlamani here! 👋</h1>
+<img src="Banner.png"> <br><br>
   
 ## 👨‍💻About Me
 - Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
