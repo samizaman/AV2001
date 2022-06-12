@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Anirudh Vadlamani here! 👋</h1>
-<img src="Banner.png"> <br><br>
+<img src="Banner.png"> <br>
   
 ## 👨‍💻About Me
 - Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
