@@ -3,8 +3,7 @@
   
 ## 👨‍💻About Me
 - Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
-- Love to work with the Front-end 🎨, Back-end ⚙️, and AI/ML 🤖.
-- Currenly, I'm learning about the Front-end technologies 📚.
+- Currently, I'm learning about the Front-end 🎨 and the Back-end ⚙️.
 - When I'm not coding, I explore other topics of interest 😀.
 <hr>
 
