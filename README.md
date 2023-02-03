@@ -4,7 +4,7 @@
 ## 👨‍💻About Me
 - Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
 - Currently, I'm learning about the Front-end 🎨 and the Back-end ⚙️.
-- When I'm learning and not working on projects, I maintain my GitHub streak by updating READMEs 🤣. 
+- I also build some side projects on the side if I find something exciting to build ⚒️.
 <hr>
 
 ## 🛠️ Programming Languages
