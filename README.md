@@ -2,9 +2,9 @@
 <img src="Banner.png"> <br>
   
 ## 👨‍💻About Me
-- Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (1 year left! 🎓).
+- Pursuing BSc IT 🧑‍🎓 at Middlesex University Dubai (2 months left! 🎓).
 - Currently, I'm learning about the Front-end 🎨 and the Back-end ⚙️.
-- I also build some side projects on the side if I find something exciting to build ⚒️.
+- I also build some side projects if I find something exciting to build ⚒️.
 <hr>
 
 ## 🛠️ Programming Languages
