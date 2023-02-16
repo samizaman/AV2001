@@ -19,6 +19,7 @@ Below are some of the languages, and libraries/frameworks that I am proficient i
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Logo of NodeJS" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="Logo of MongoDB" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Logo of Python" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Logo of AWS" width="50">
 </div>
 <hr>
 
