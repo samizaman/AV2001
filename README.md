@@ -13,7 +13,7 @@ look appealing to you, I would be lying to myself cause I don't know them.
 <br><br>
 Below are some of the technologies, inluding languages libraries/frameworks, and deployment platforms that I am proficient in.
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="Logo of HTML5" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Logo of HTML5" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Logo of CSS3" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Logo of JavaScript" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Logo of NodeJS" width="50">
